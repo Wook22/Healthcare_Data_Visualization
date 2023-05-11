@@ -1,6 +1,6 @@
 # Powerful Healthcare Data Plotting
 
-![](images/Laboratory.jpg)
+
 
 ## Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
@@ -9,6 +9,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
+![](images/Laboratory.jpg)
 
 ## Instructions
 * This assignment is broken down into the following tasks:
