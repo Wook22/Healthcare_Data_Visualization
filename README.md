@@ -1,4 +1,4 @@
-# Powerful Healthcare data Plotting
+# Powerful Healthcare Data Plotting
 
 ![](images/Laboratory.jpg)
 
