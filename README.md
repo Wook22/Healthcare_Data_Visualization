@@ -1,4 +1,4 @@
-# Powerful Healthcare Data Plotting
+# Healthcare Data Plotting
 
 
 
